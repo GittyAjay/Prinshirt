@@ -1,5 +1,5 @@
 ###  prinshirt
 ## I am using
-# Vuex 
-# Vue-store
-# Vue-3
+## Vuex 
+## Vue-store
+## Vue-3
